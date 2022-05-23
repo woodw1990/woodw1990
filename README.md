@@ -7,3 +7,4 @@
 
 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=icarus0411)](https://solved.ac/profile/icarus0411)
+

@@ -7,7 +7,7 @@
 ## 💻 Project Site
 
 - <a href = "https://www.notion.so/955c7b3a26424d19a238bd8d52244af7?v=22fb9fe39ecd468e9aefa6874028a2b6" target="_blank">명지병원</a>
-- <a href="http://www.google.co.kr/" target="_blank">구글 검색 (새 창으로 열기)</a>
+<a target="_blank" href="https://blog.naver.com/alyssa111">하양의 블로그</a>
 
 ## 💻 ...
 

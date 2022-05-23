@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>    <img src="https://img.shields.io/badge/Delphi-red?style=flat-square&logo=Delphi&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Mysql-critical?style=flat-square&logo=Mysql&logoColor=white"/></a>    <img src="https://img.shields.io/badge/Oracle-ff69b4?style=flat-square&logo=Oracle&logoColor=white"/></a> 
 ## 💻 Project Site
 
-- <a href = "https://natural-red-ed6.notion.site/TEST-a257a28125164098977696574f5fa386" target="_blank"><img src ="http://www.mjh.or.kr/files/attach/images/104/a5280901edb97cd58afb7bf30a432e25.png"></a>
+- <center><a href = "https://natural-red-ed6.notion.site/TEST-a257a28125164098977696574f5fa386" target="_blank"><img src ="http://www.mjh.or.kr/files/attach/images/104/a5280901edb97cd58afb7bf30a432e25.png"></a> </center>
 
 ## 💻 ...
 

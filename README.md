@@ -6,8 +6,12 @@
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>   <img src="https://img.shields.io/badge/C%23-success?style=flat-square&logo=C%23&logoColor=white"/>    <img src="https://img.shields.io/badge/Delphi-red?style=flat-square&logo=Delphi&logoColor=white"/></a>   <img src="https://img.shields.io/badge/Mysql-critical?style=flat-square&logo=Mysql&logoColor=white"/></a>    <img src="https://img.shields.io/badge/Oracle-ff69b4?style=flat-square&logo=Oracle&logoColor=white"/></a> 
 
 ## 💻 Work Experience
- <center>
- <H1><a href = "https://icarus0411.tistory.com/notice/3"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> </H1></center>
+
+ <!--<a href = "https://icarus0411.tistory.com/notice/3"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>-->
+<left>
+ <a href = "https://icarus0411.tistory.com/notice/3"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge" style="width: 20vw; min-width: 140px;" /></a>
+ </left>
+
 
 ## 💻 Project Site
 
